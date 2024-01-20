@@ -1,0 +1,39 @@
+
+.user-details{
+    margin: 3rem 4rem ;
+    display: flex;
+    gap: 2rem;
+}
+.user-img{
+    width: 150px;
+    border-radius: 100%;
+}
+#card-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4rem 10rem ;
+    gap: 2rem;
+}
+.card{
+    border: 2px solid;
+    padding: 1rem;
+    width: 500px;
+    border-radius: 5px;
+}
+.languages-container{
+    display: flex;
+    gap: 1rem;
+}
+.languages-name {
+    display: flex;
+}
+.languages{
+    background-color: #5a5ae2;
+    gap: 2rem;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+
+}
